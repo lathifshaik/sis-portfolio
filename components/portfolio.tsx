@@ -118,7 +118,7 @@ export function PortfolioComponent() {
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild className="text-gray-300 hover:text-white hover:bg-gray-700">
-                <a href="mailto:nandinisaini@email.com" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:thenandinisaini293@gmail.com" target="_blank" rel="noopener noreferrer">
                   <FaEnvelope className="h-5 w-5" />
                   <span className="sr-only">Email</span>
                 </a>
