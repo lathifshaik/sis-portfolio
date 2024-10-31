@@ -112,7 +112,7 @@ export function PortfolioComponent() {
                 </a>
               </Button>
               <Button variant="ghost" size="icon" asChild className="text-gray-300 hover:text-white hover:bg-gray-700">
-                <a href="https://www.linkedin.com/in/nandinisaini/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/thenandinisaini/" target="_blank" rel="noopener noreferrer">
                   <FaLinkedin className="h-5 w-5" />
                   <span className="sr-only">LinkedIn</span>
                 </a>
@@ -377,7 +377,7 @@ export function PortfolioComponent() {
               </Button>
               <Button size="lg" variant="outline" className="text-blue-400 border-blue-400 hover:bg-blue-400 hover:text-white">
                 <FaLinkedin className="mr-2" />
-                Connect on LinkedIn
+                <a href='https://www.linkedin.com/in/thenandinisaini/'>Connect on LinkedIn </a>
               </Button>
             </div>
           </section>
